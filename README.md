@@ -1,22 +1,26 @@
-# Web Development Project 1 - F1 Calendar Viewer
+# Web Development Project 3 - Project 3
 
 Submitted by: David Xie
 
-This web app: shows the first 10 races of the 2024 f1 season
+This web app: 2024 f1 season teams
 
-Time spent: 1.5 hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ X ] **There is a unique theme for events or resources relevant to a specific community**
-- [ X ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [ X ] **The user can enter their guess in a box before seeing the flipside of the card**
+- [ X ] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [ X ] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [ X ] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [ ] A shuffle button is used to randomize the order of the cards
+- [ ] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [ ] A counter displays the user's current and longest streak of correct responses
+- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 The following **additional** features are implemented:
 
@@ -24,12 +28,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/atiq2Wx' title='dx p1' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/58bnQI4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with screetogif
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,12 +41,11 @@ GIF created with screetogif
 
 ## Notes
 
-The project was quite simple. I just did not have time to finish the custom features. Very busy week
-The most difficult part was just warming back up to React. 
+Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2024 David Xie
+    Copyright 2004 David Xie
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
