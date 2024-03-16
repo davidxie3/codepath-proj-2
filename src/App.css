@@ -11,3 +11,7 @@
   justify-content: center;
   height: 100vh; /* This ensures the div takes up the full height of the viewport */
 }
+
+button {
+  outline: 2px solid black;
+}
